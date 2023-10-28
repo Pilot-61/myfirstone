@@ -2,13 +2,12 @@ import tweepy
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Twitter API credentials
-consumer_key = 'NHfw8NYAfTsNFRl5MlMObqCtn'
-consumer_secret = 'YLMPOOepz5RX8Se2VnmukIq7jktC11Dp2OPld4HfQkLbyIUQ7e'
-access_token = IeeNb9rXDzrw2DBL9mq2PIULa7H0MZ'
-access_token_secret = '6q18xY86KUQDUXHBUfXI5NnUqPBX5BFg3SxlTFvLRSwil'
+consumer_key = 
+consumer_secret = ''
+access_token = '
+access_token_secret = ''
 
 # Telegram Bot Token
-telegram_token = '6938905127:AAH-QW-hpfqDdUW5HUhG8WN5J0uDQCkPxg4'
 
 # Keywords to monitor
 keywords = ['check-in', 'pool']
