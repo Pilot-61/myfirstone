@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 # Twitter API credentials
 consumer_key = 
 consumer_secret = ''
-access_token = '
+access_token = ''
 access_token_secret = ''
 
 # Telegram Bot Token
